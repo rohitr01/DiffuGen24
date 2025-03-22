@@ -1,1 +1,1 @@
-# DiffuGen24
+# DiffuGen
